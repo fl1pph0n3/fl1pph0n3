@@ -15,7 +15,3 @@
 <code><img height="20" alt="haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white"></code>
 <code><img height="20" alt="raspberry pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi"></code>
 <code><img height="20" alt="arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></code>
-
-<div align="right">
-  <img alt="silly" src="waa.gif" width="20"/>
-</div>
