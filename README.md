@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <img alt="Banner" src="imagetext.png"/>
+</div>
 
-<!--
-**fl1pph0n3/fl1pph0n3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## You’re here. Interesting.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✦ Every now and then I code. Currently focused on cryptography and cryptanalysis.
+
+✦ You’ll find me on Discord **@fl1pph0n3** or by email **sara.garzou@ru.nl**. Feel free to message me in English, Dutch, French, Russian, or Japanese — your choice.
+
+## What I use
+<code><img height="20" alt="python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></code>
+<code><img height="20" alt="c++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></code>
+<code><img height="20" alt="haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white"></code>
+<code><img height="20" alt="raspberry pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi"></code>
+<code><img height="20" alt="arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></code>
+
+<div align="right">
+  <img alt="silly" src="waa.gif" width="20"/>
+</div>
