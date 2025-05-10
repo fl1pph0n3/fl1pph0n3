@@ -5,9 +5,9 @@
 ## You’re here. Interesting.
 
 
-✦ Every now and then I code. Currently focused on cryptography and cryptanalysis.
+✦ Every now and then I code, though  my page is empty for now. Perhaps something will appear soon.
 
-✦ You’ll find me on Discord **@fl1pph0n3** or by email **sara.garzou@ru.nl**. Feel free to message me in English, Dutch, French, Russian, or Japanese — your choice.
+✦ Focused on cryptography and cryptanalysis
 
 ## What I use
 <code><img height="20" alt="python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></code>
