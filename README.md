@@ -2,7 +2,7 @@
   <img alt="Banner" src="imagetext.png"/>
 </div>
 
-## You’re here. Interesting.
+## ₍^. .^₎⟆
 
 
 ✦ Every now and then I code, though  my page is empty for now. Perhaps something will appear soon.
