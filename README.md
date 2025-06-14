@@ -1,7 +1,3 @@
-<div align="center">
-  <img alt="Banner" src="imagetext.png"/>
-</div>
-
 ## ₍^. .^₎⟆
 
 
